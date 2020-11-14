@@ -1,7 +1,3 @@
-# Video Demo
-
-https://youtu.be/ALVrklTDlqQ
-
 ## Instalación
 
 ```shell
